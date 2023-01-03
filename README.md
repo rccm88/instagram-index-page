@@ -1,2 +1,2 @@
 # Instagram Index Page Project
-A project created to simulate the Instagram index page.
+A front end project created to simulate the Instagram index page, using HTML and applying CSS Flexbox functionalities.
